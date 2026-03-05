@@ -1,19 +1,9 @@
-# Tech-Explorers-AgroFusion
-Our project is mainly to design an AI-based decision support system that helps farmers make informed,
-timely and profitable farming decisions by integrating crop planning, risk prediction, disease detection
-etc., into a single platform
+AgroFusion is an AI-powered platform designed to help farmers and agricultural enthusiasts analyze crop health and detect plant diseases using image recognition. Users can upload images of plants, and the system provides instant predictions and suggestions to improve yield and prevent crop damage. The project combines an intuitive frontend interface with a robust AI backend, making advanced agricultural insights accessible to everyone.
 
-How It Works-
-Farmer inputs farm details → backend combines weather data, soil
-compatibility and AI models → system generates crop plan, risk
-score, and profit estimate.
+Features
 
-● What-If Farming Simulation
-Maximizes farm productivity by recommending crop combinations that increase yield and income per
-acre.
-● Market Sell Timing Advisor
-Provides data-driven recommendations on when to sell produce, reducing losses from price changes.
-● Prediction Alerts
-Uses local weather insights to protect crops and optimize use of water, fertilizer and pesticides.
-● AI Disease Detection
-Reduces crop losses through instant, photo-based disease detection and treatment guidance.
+Get to know about current market sales Get instant AI-based predictions User-friendly interface for farmers and agronomists Scalable architecture for integrating multiple crops and regions
+
+Tech Stack
+
+Frontend: HTML, CSS, JavaScript Backend: FastAPI (Python) Deployment: GitHub Pages Version Control: Git & GitHub
